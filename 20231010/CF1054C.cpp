@@ -70,8 +70,6 @@ int main() {
 		h2[i] = s2[i] = read();
 	isl.fill(-1);
 	cnt = n;
-	int tp = n;
-	bool ans = false;
 	while (divide(n));
 	bool flg = false;
 	for (int i = 1; i <= n; i++) {
